@@ -1,0 +1,33 @@
+
+.Link {
+    padding: 1opx 8px;
+    width: 50px;
+    background: #caa2a2;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: backgrond 1s;
+  }
+  #myProgress {
+    width: 100%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+  }
+  .Link2 {
+    padding: 1opx 8px;
+    width: 300px;
+    background: #caa2a2;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: backgrond 1s;
+  }
